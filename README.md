@@ -8,4 +8,6 @@ This is an exercise of tutorial
   - push
   - pull
   - fetch
-- github push request
+- github 
+  - push request
+  - fork
